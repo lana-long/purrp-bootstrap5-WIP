@@ -1,0 +1,23 @@
+.carousel-inner {
+    height: 50vh;
+}
+
+.carousel-item, img {
+    height: 50vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    font-size: 5vh;
+    color: #FFC5C5;
+    text-shadow: black 2px 3px;
+}
+
+#cat-carousel{
+    margin-bottom: 5vh;
+}
+
+.row {
+    margin: 5vh 0vh 5vh 0vh;
+}
