@@ -20,3 +20,8 @@
   margin-top: 5vh;
   margin-bottom: 2vh;
 }
+
+.nav-pills > .nav-item {
+  border-radius: 7px;
+  background-color: #EED3D9;
+}
